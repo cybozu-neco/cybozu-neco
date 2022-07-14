@@ -1,26 +1,32 @@
+# Neco
+
+Neco is an effort to re-architecture our data centers to make them resilient, manageable, and observable with robust automation. In short, we are building Cloud Native data centers.
+
+<a href="https://twitter.com/intent/follow?screen_name=cybozu_neco&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/cybozu_neco?label=%40cybozu-neco&style=social"></a>
+
 ## OSS Projects
 
-| 🎁 Projects | ⭐ Stars |
-|:---|:---|
-| [Accurate](https://github.com/cybozu-go/accurate) | <img alt="Stars" src="https://img.shields.io/github/stars/cybozu-go/accurate?style=flat-square&labelColor=343b41"/> |
-| [Cattage](https://github.com/cybozu-go/cattage) | <img alt="Stars" src="https://img.shields.io/github/stars/cybozu-go/cattage?style=flat-square&labelColor=343b41"/> |
-| [CKE](https://github.com/cybozu-go/cke) | <img alt="Stars" src="https://img.shields.io/github/stars/cybozu-go/cke?style=flat-square&labelColor=343b41"/> |
-| [Coil](https://github.com/cybozu-go/coil) | <img alt="Stars" src="https://img.shields.io/github/stars/cybozu-go/coil?style=flat-square&labelColor=343b41"/> |
-| [Contour Plus](https://github.com/cybozu-go/contour-plus) | <img alt="Stars" src="https://img.shields.io/github/stars/cybozu-go/contour-plus?style=flat-square&labelColor=343b41"/> |
-| [etcdpasswd](https://github.com/cybozu-go/etcdpasswd) | <img alt="Stars" src="https://img.shields.io/github/stars/cybozu-go/etcdpasswd?style=flat-square&labelColor=343b41"/> |
-| [etcdutil](https://github.com/cybozu-go/etcdutil) | <img alt="Stars" src="https://img.shields.io/github/stars/cybozu-go/etcdutil?style=flat-square&labelColor=343b41"/> |
-| [meows](https://github.com/cybozu-go/meows) | <img alt="Stars" src="https://img.shields.io/github/stars/cybozu-go/meows?style=flat-square&labelColor=343b41"/> |
-| [MOCO](https://github.com/cybozu-go/moco) | <img alt="Stars" src="https://img.shields.io/github/stars/cybozu-go/moco?style=flat-square&labelColor=343b41"/> |
-| [neco](https://github.com/cybozu-go/neco) | <img alt="Stars" src="https://img.shields.io/github/stars/cybozu-go/neco?style=flat-square&labelColor=343b41"/> |
-| [neco-gcp](https://github.com/cybozu-go/neco-gcp) | <img alt="Stars" src="https://img.shields.io/github/stars/cybozu-go/neco-gcp?style=flat-square&labelColor=343b41"/> |
-| [Nyamber](https://github.com/cybozu-go/nyamber) | <img alt="Stars" src="https://img.shields.io/github/stars/cybozu-go/nyamber?style=flat-square&labelColor=343b41"/> |
-| [Placemat](https://github.com/cybozu-go/placemat) | <img alt="Stars" src="https://img.shields.io/github/stars/cybozu-go/placemat?style=flat-square&labelColor=343b41"/> |
-| [Pod Security Admission](https://github.com/cybozu-go/pod-security-admission) | <img alt="Stars" src="https://img.shields.io/github/stars/cybozu-go/pod-security-admission?style=flat-square&labelColor=343b41"/> |
-| [Sabakan](https://github.com/cybozu-go/sabakan) | <img alt="Stars" src="https://img.shields.io/github/stars/cybozu-go/sabakan?style=flat-square&labelColor=343b41"/> |
-| [setup-hw](https://github.com/cybozu-go/setup-hw) | <img alt="Stars" src="https://img.shields.io/github/stars/cybozu-go/setup-hw?style=flat-square&labelColor=343b41"/> |
-| [Tenet](https://github.com/cybozu-go/tenet) | <img alt="Stars" src="https://img.shields.io/github/stars/cybozu-go/tenet?style=flat-square&labelColor=343b41"/> |
-| [Neco Containers](https://github.com/cybozu/neco-containers) | <img alt="Stars" src="https://img.shields.io/github/stars/cybozu/neco-containers?style=flat-square&labelColor=343b41"/> |
-| [ubuntu-base](https://github.com/cybozu/ubuntu-base) | <img alt="Stars" src="https://img.shields.io/github/stars/cybozu/ubuntu-base?style=flat-square&labelColor=343b41"/> |
+| 🎁 Projects | 📝 Descriptions | ⭐ Stars |
+|:---|:---|:---|
+| [Accurate](https://github.com/cybozu-go/accurate) | Kubernetes controller for multi-tenancy. It propagates resources between namespaces accurately and allows tenant users to create/delete sub-namespaces. | <img alt="Stars" src="https://img.shields.io/github/stars/cybozu-go/accurate?style=flat-square&labelColor=343b41"/> |
+| [Cattage](https://github.com/cybozu-go/cattage) | Kubernetes controller that enhances the multi-tenancy of Argo CD with Accurate. | <img alt="Stars" src="https://img.shields.io/github/stars/cybozu-go/cattage?style=flat-square&labelColor=343b41"/> |
+| [CKE](https://github.com/cybozu-go/cke) | Cybozu Kubernetes Engine | <img alt="Stars" src="https://img.shields.io/github/stars/cybozu-go/cke?style=flat-square&labelColor=343b41"/> |
+| [Coil](https://github.com/cybozu-go/coil) | CNI plugin for Kubernetes designed for scalability and extensibility | <img alt="Stars" src="https://img.shields.io/github/stars/cybozu-go/coil?style=flat-square&labelColor=343b41"/> |
+| [Contour Plus](https://github.com/cybozu-go/contour-plus) | Enhance contour for external-dns and cert-manager | <img alt="Stars" src="https://img.shields.io/github/stars/cybozu-go/contour-plus?style=flat-square&labelColor=343b41"/> |
+| [etcdpasswd](https://github.com/cybozu-go/etcdpasswd) | Distributed Linux user management using etcd | <img alt="Stars" src="https://img.shields.io/github/stars/cybozu-go/etcdpasswd?style=flat-square&labelColor=343b41"/> |
+| [etcdutil](https://github.com/cybozu-go/etcdutil) | Add-ons for etcd | <img alt="Stars" src="https://img.shields.io/github/stars/cybozu-go/etcdutil?style=flat-square&labelColor=343b41"/> |
+| [meows](https://github.com/cybozu-go/meows) | Kubernetes controller for GitHub actions self-hosted runners | <img alt="Stars" src="https://img.shields.io/github/stars/cybozu-go/meows?style=flat-square&labelColor=343b41"/> |
+| [MOCO](https://github.com/cybozu-go/moco) | MySQL operator on Kubernetes using GTID-based semi-synchronous replication. | <img alt="Stars" src="https://img.shields.io/github/stars/cybozu-go/moco?style=flat-square&labelColor=343b41"/> |
+| [neco](https://github.com/cybozu-go/neco) | Project Neco | <img alt="Stars" src="https://img.shields.io/github/stars/cybozu-go/neco?style=flat-square&labelColor=343b41"/> |
+| [neco-gcp](https://github.com/cybozu-go/neco-gcp) | GCP management tools for project Neco | <img alt="Stars" src="https://img.shields.io/github/stars/cybozu-go/neco-gcp?style=flat-square&labelColor=343b41"/> |
+| [Nyamber](https://github.com/cybozu-go/nyamber) | Custom controllers to create Neco environment | <img alt="Stars" src="https://img.shields.io/github/stars/cybozu-go/nyamber?style=flat-square&labelColor=343b41"/> |
+| [Placemat](https://github.com/cybozu-go/placemat) | Virtual data center construction tool | <img alt="Stars" src="https://img.shields.io/github/stars/cybozu-go/placemat?style=flat-square&labelColor=343b41"/> |
+| [Pod Security Admission](https://github.com/cybozu-go/pod-security-admission) | A Kubernetes admission webhook to ensure pod security standards | <img alt="Stars" src="https://img.shields.io/github/stars/cybozu-go/pod-security-admission?style=flat-square&labelColor=343b41"/> |
+| [Sabakan](https://github.com/cybozu-go/sabakan) | A versatile network boot server for large data centers | <img alt="Stars" src="https://img.shields.io/github/stars/cybozu-go/sabakan?style=flat-square&labelColor=343b41"/> |
+| [setup-hw](https://github.com/cybozu-go/setup-hw) | Build container image to configure BMC and BIOS | <img alt="Stars" src="https://img.shields.io/github/stars/cybozu-go/setup-hw?style=flat-square&labelColor=343b41"/> |
+| [Tenet](https://github.com/cybozu-go/tenet) | Tenet is a Kubernetes controller that aims to facilitate setting-up Network Policies on tenant namespaces. | <img alt="Stars" src="https://img.shields.io/github/stars/cybozu-go/tenet?style=flat-square&labelColor=343b41"/> |
+| [Neco Containers](https://github.com/cybozu/neco-containers) | Dockerfiles for OSS products used in Neco | <img alt="Stars" src="https://img.shields.io/github/stars/cybozu/neco-containers?style=flat-square&labelColor=343b41"/> |
+| [ubuntu-base](https://github.com/cybozu/ubuntu-base) | Minimal container images based on Ubuntu | <img alt="Stars" src="https://img.shields.io/github/stars/cybozu/ubuntu-base?style=flat-square&labelColor=343b41"/> |
 
 ## Blog Posts
 
