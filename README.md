@@ -2,8 +2,6 @@
 
 Neco is an effort to re-architecture our data centers to make them resilient, manageable, and observable with robust automation. In short, we are building Cloud Native data centers.
 
-<a href="https://twitter.com/intent/follow?screen_name=cybozu_neco&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/cybozu_neco?label=%40cybozu-neco&style=social"></a>
-
 ## OSS Projects
 
 | 🎁 Projects | 📝 Descriptions | ⭐ Stars |
@@ -61,3 +59,67 @@ Neco is an effort to re-architecture our data centers to make them resilient, ma
 - [[2019/01/09] KubeCon+CNConに見るetcdの未来 (CloudNative Meetup Tokyo #6)](https://speakerdeck.com/zoetrope/kubecon-plus-cnconnijian-ruetcdfalsewei-lai)
 - [[2018/10/17] インフラ刷新プロジェクト「Neco」が目指す最高のクラウドとは (Cybozu Meetup #18 SRE/Neco)](https://www.slideshare.net/ShinyaUeoka/neco-119734740)
 - [[2018/08/26] ツラくないクラウド運用環境を作る (オープンデベロッパーズカンファレンス2018)](https://speakerdeck.com/dulltz/turakunaikuraudoyun-yong-huan-jing-wozuo-ru-2)
+
+## Members
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/zoetrope">
+        <img src="https://avatars.githubusercontent.com/u/586654?s=60&v=4" width="100px;" alt="zoetrope"/>
+      </a>
+      <br />
+      <a href="https://github.com/zoetrope">zoetrope</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/morimoto-cybozu">
+        <img src="https://avatars.githubusercontent.com/u/4961073?s=88&v=4" width="100px;" alt="morimoto-cybozu"/>
+      </a>
+      <br />
+      <a href="https://github.com/morimoto-cybozu">morimoto-cybozu</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ysksuzuki">
+        <img src="https://avatars.githubusercontent.com/u/5572688?s=88&v=4" width="100px;" alt="ysksuzuki"/>
+      </a>
+      <br />
+      <a href="https://github.com/ysksuzuki">ysksuzuki</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/umezawatakeshi">
+        <img src="https://avatars.githubusercontent.com/u/12896637?s=88&v=4" width="100px;" alt="umezawatakeshi"/>
+      </a>
+      <br />
+      <a href="https://github.com/umezawatakeshi">umezawatakeshi</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/kmdkuk">
+        <img src="https://avatars.githubusercontent.com/u/15919309?s=88&v=4" width="100px;" alt="kmdkuk"/>
+      </a>
+      <br />
+      <a href="https://github.com/kmdkuk">kmdkuk</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/yokaze">
+        <img src="https://avatars.githubusercontent.com/u/21137296?s=88&v=4" width="100px;" alt="yokaze"/>
+      </a>
+      <br />
+      <a href="https://github.com/yokaze">yokaze</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/masa213f">
+        <img src="https://avatars.githubusercontent.com/u/47380942?s=88&v=4" width="100px;" alt="masa213f"/>
+      </a>
+      <br />
+      <a href="https://github.com/masa213f">masa213f</a>
+    </td>
+    <td align="center">
+    </td>
+    <td align="center">
+    </td>
+    <td align="center">
+    </td>
+  </tr>
+</table>
