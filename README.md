@@ -116,10 +116,25 @@ Neco is an effort to re-architecture our data centers to make them resilient, ma
       <a href="https://github.com/masa213f">masa213f</a>
     </td>
     <td align="center">
+      <a href="https://github.com/zeroalphat">
+        <img src="https://avatars.githubusercontent.com/u/22779960?s=88&v=4" width="100px;" alt="zeroalphat"/>
+      </a>
+      <br />
+      <a href="https://github.com/zeroalphat">zeroalphat</a>
     </td>
     <td align="center">
+      <a href="https://github.com/yamatcha">
+        <img src="https://avatars.githubusercontent.com/u/25486947?s=88&v=4" width="100px;" alt="yamatcha"/>
+      </a>
+      <br />
+      <a href="https://github.com/yamatcha">yamatcha</a>
     </td>
     <td align="center">
+      <a href="https://github.com/terassyi">
+        <img src="https://avatars.githubusercontent.com/u/49265363?s=88&v=4" width="100px;" alt="terassyi"/>
+      </a>
+      <br />
+      <a href="https://github.com/terassyi">terassyi</a>
     </td>
   </tr>
 </table>
