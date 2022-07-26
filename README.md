@@ -30,6 +30,7 @@ Neco is an effort to re-architecture our data centers to make them resilient, ma
 
 - [Neco カテゴリーの記事一覧 - Cybozu Inside Out | サイボウズエンジニアのブログ](https://blog.cybozu.io/archive/category/Neco)
 - [Entries in neco category - Kintone Engineering Blog](https://blog.kintone.io/archive/category/neco)
+- [Neco Weekly](https://cybozu-neco.github.io/neco-weekly/)
 
 ## Presentations
 
