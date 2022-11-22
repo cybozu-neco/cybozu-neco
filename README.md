@@ -35,7 +35,8 @@ Neco is an effort to re-architecture our data centers to make them resilient, ma
 
 ## Presentations
 
-- [[2021/11/04] Kubernetesオペレータのアンチパターン＆ベストプラクティス](https://speakerdeck.com/zoetrope/kubernetesoperetafalseantipatan-besutopurakuteisu)
+- [[2022/11/22] Kubernetes Admission Webhook Deep Dive (CNDT2022)](https://speakerdeck.com/zoetrope/kubernetes-admission-webhook-deep-dive)
+- [[2021/11/04] Kubernetesオペレータのアンチパターン＆ベストプラクティス (CNDT2021)](https://speakerdeck.com/zoetrope/kubernetesoperetafalseantipatan-besutopurakuteisu)
 - [[2021/03/18] Production-Ready Kubernetesに至るまでの3年間とこれから](https://speakerdeck.com/zoetrope/production-ready-kubernetesnizhi-rumadefalse3nian-jian-tokorekara)
 - [[2021/03/11] オンプレKubernetesでMySQLクラスタの運用を自動化するためにOperatorを自作している話 (CNDO2021)](https://speakerdeck.com/zoetrope/onpurekubernetesdemysqlkurasutafalseyun-yong-wozi-dong-hua-surutamenioperatorwozi-zuo-siteiruhua)
 - [[2021/02/18] サイボウズを支える技術 ～インフラ刷新プロジェクトNecoを中心に紹介～ (サイボウズ技術説明会 for student！)](https://speakerdeck.com/zoetrope/saibouzuwozhi-eruji-shu-inhurashua-xin-puroziekutonecowozhong-xin-nishao-jie)
