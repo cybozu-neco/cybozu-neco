@@ -35,6 +35,8 @@ Neco is an effort to re-architecture our data centers to make them resilient, ma
 
 ## Presentations
 
+- [[2023/03/16] Kubernetesコントローラーのパフォーマンスチューニング (Kubernetes Meetup Tokyo #56)](https://speakerdeck.com/zoetrope/kuberneteskontororanopahuomansutiyuningu)
+- [[2023/02/27] オンプレミスK8s基盤をまるごとVMで仮想化した検証環境とその活用 (CI/CD Conference 2023 前夜祭)](https://speakerdeck.com/yamatcha/onpuremisuk8sji-pan-womarugoto-vmdejia-xiang-hua-sitajian-zheng-huan-jing-tosonohuo-yong)
 - [[2022/11/22] Kubernetes Admission Webhook Deep Dive (CNDT2022)](https://speakerdeck.com/zoetrope/kubernetes-admission-webhook-deep-dive)
 - [[2021/11/04] Kubernetesオペレータのアンチパターン＆ベストプラクティス (CNDT2021)](https://speakerdeck.com/zoetrope/kubernetesoperetafalseantipatan-besutopurakuteisu)
 - [[2021/03/18] Production-Ready Kubernetesに至るまでの3年間とこれから](https://speakerdeck.com/zoetrope/production-ready-kubernetesnizhi-rumadefalse3nian-jian-tokorekara)
