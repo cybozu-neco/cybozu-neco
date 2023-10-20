@@ -84,11 +84,18 @@ Neco is an effort to re-architecture our data centers to make them resilient, ma
       <a href="https://github.com/morimoto-cybozu">morimoto-cybozu</a>
     </td>
     <td align="center">
-      <a href="https://github.com/ysksuzuki">
-        <img src="https://avatars.githubusercontent.com/u/5572688?s=88&v=4" width="100px;" alt="ysksuzuki"/>
+      <a href="https://github.com/masa213f">
+        <img src="https://avatars.githubusercontent.com/u/47380942?s=88&v=4" width="100px;" alt="masa213f"/>
       </a>
       <br />
-      <a href="https://github.com/ysksuzuki">ysksuzuki</a>
+      <a href="https://github.com/masa213f">masa213f</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/yokaze">
+        <img src="https://avatars.githubusercontent.com/u/21137296?s=88&v=4" width="100px;" alt="yokaze"/>
+      </a>
+      <br />
+      <a href="https://github.com/yokaze">yokaze</a>
     </td>
     <td align="center">
       <a href="https://github.com/umezawatakeshi">
@@ -106,20 +113,6 @@ Neco is an effort to re-architecture our data centers to make them resilient, ma
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <a href="https://github.com/yokaze">
-        <img src="https://avatars.githubusercontent.com/u/21137296?s=88&v=4" width="100px;" alt="yokaze"/>
-      </a>
-      <br />
-      <a href="https://github.com/yokaze">yokaze</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/masa213f">
-        <img src="https://avatars.githubusercontent.com/u/47380942?s=88&v=4" width="100px;" alt="masa213f"/>
-      </a>
-      <br />
-      <a href="https://github.com/masa213f">masa213f</a>
-    </td>
     <td align="center">
       <a href="https://github.com/zeroalphat">
         <img src="https://avatars.githubusercontent.com/u/22779960?s=88&v=4" width="100px;" alt="zeroalphat"/>
@@ -140,6 +133,27 @@ Neco is an effort to re-architecture our data centers to make them resilient, ma
       </a>
       <br />
       <a href="https://github.com/terassyi">terassyi</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/takara9">
+        <img src="https://avatars.githubusercontent.com/takara9?s=88&v=4" width="100px;" alt="takara9"/>
+      </a>
+      <br />
+      <a href="https://github.com/takara9">takara9</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/YZ775">
+        <img src="https://avatars.githubusercontent.com/YZ775?s=88&v=4" width="100px;" alt="YZ775"/>
+      </a>
+      <br />
+      <a href="https://github.com/YZ775">YZ775</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/chez-shanpu">
+        <img src="https://avatars.githubusercontent.com/chez-shanpu?s=88&v=4" width="100px;" alt="chez-shanpu"/>
+      </a>
+      <br />
+      <a href="https://github.com/chez-shanpu">chez-shanpu</a>
     </td>
   </tr>
 </table>
