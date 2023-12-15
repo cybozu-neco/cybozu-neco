@@ -35,7 +35,8 @@ Neco is an effort to re-architecture our data centers to make them resilient, ma
 
 ## Presentations
 
-- [[2023/10/19]  分散コンテナレジストリミラーを活用したコンテナイメージ取得時間の改善 (Kubernetes Meetup Tokyo #61)](https://speakerdeck.com/yamatcha/fen-san-kontenarezisutorimirawohuo-yong-sitakontenaimeziqu-de-shi-jian-nogai-shan)
+- [[2023/12/12] CiliumにおけるGeneveプロトコルを用いたDSRの実装と導入（CNDT2023）](https://speakerdeck.com/cybozuinsideout/cndt2023-cybozu)
+- [[2023/10/19] 分散コンテナレジストリミラーを活用したコンテナイメージ取得時間の改善 (Kubernetes Meetup Tokyo #61)](https://speakerdeck.com/yamatcha/fen-san-kontenarezisutorimirawohuo-yong-sitakontenaimeziqu-de-shi-jian-nogai-shan)
 - [[2023/03/16] Kubernetesコントローラーのパフォーマンスチューニング (Kubernetes Meetup Tokyo #56)](https://speakerdeck.com/zoetrope/kuberneteskontororanopahuomansutiyuningu)
 - [[2023/02/27] オンプレミスK8s基盤をまるごとVMで仮想化した検証環境とその活用 (CI/CD Conference 2023 前夜祭)](https://speakerdeck.com/yamatcha/onpuremisuk8sji-pan-womarugoto-vmdejia-xiang-hua-sitajian-zheng-huan-jing-tosonohuo-yong)
 - [[2022/11/22] Kubernetes Admission Webhook Deep Dive (CNDT2022)](https://speakerdeck.com/zoetrope/kubernetes-admission-webhook-deep-dive)
