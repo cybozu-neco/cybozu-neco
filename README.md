@@ -28,6 +28,7 @@ Neco is an effort to re-architecture our data centers to make them resilient, ma
 | [Sabakan](https://github.com/cybozu-go/sabakan) | A versatile network boot server for large data centers | <img alt="Stars" src="https://img.shields.io/github/stars/cybozu-go/sabakan?style=flat-square&labelColor=343b41"/> |
 | [setup-hw](https://github.com/cybozu-go/setup-hw) | Build container image to configure BMC and BIOS | <img alt="Stars" src="https://img.shields.io/github/stars/cybozu-go/setup-hw?style=flat-square&labelColor=343b41"/> |
 | [Tenet](https://github.com/cybozu-go/tenet) | Tenet is a Kubernetes controller that aims to facilitate setting-up Network Policies on tenant namespaces. | <img alt="Stars" src="https://img.shields.io/github/stars/cybozu-go/tenet?style=flat-square&labelColor=343b41"/> |
+| [TopoLVM](https://github.com/topolvm/topolvm) | Capacity-aware CSI plugin for Kubernetes | <img alt="Stars" src="https://img.shields.io/github/stars/topolvm/topolvm?style=flat-square&labelColor=343b41"/> |
 | [Neco Containers](https://github.com/cybozu/neco-containers) | Dockerfiles for OSS products used in Neco | <img alt="Stars" src="https://img.shields.io/github/stars/cybozu/neco-containers?style=flat-square&labelColor=343b41"/> |
 | [ubuntu-base](https://github.com/cybozu/ubuntu-base) | Minimal container images based on Ubuntu | <img alt="Stars" src="https://img.shields.io/github/stars/cybozu/ubuntu-base?style=flat-square&labelColor=343b41"/> |
 
