@@ -21,6 +21,8 @@ Neco is an effort to re-architecture our data centers to make them resilient, ma
 | [necoperf](https://github.com/cybozu-go/necoperf) | necoperf provides the ability to easily retrieve profiles of containers running on Kubernetes. | <img alt="Stars" src="https://img.shields.io/github/stars/cybozu-go/necoperf?style=flat-square&labelColor=343b41"/> |
 | [necotiator](https://github.com/cybozu-go/necotiator) | ResourceQuota Controller for soft multi-tenancy | <img alt="Stars" src="https://img.shields.io/github/stars/cybozu-go/necotiator?style=flat-square&labelColor=343b41"/> |
 | [neco-gcp](https://github.com/cybozu-go/neco-gcp) | GCP management tools for project Neco | <img alt="Stars" src="https://img.shields.io/github/stars/cybozu-go/neco-gcp?style=flat-square&labelColor=343b41"/> |
+| [network-policy-viewer](https://github.com/cybozu-go/network-policy-viewer) | A CLI tool to inspect Cilium's NetworkPolicy | <img alt="Stars" src="https://img.shields.io/github/stars/cybozu-go/network-policy-viewer?style=flat-square&labelColor=343b41"/> |
+| [nyallocator](https://github.com/cybozu-go/nyallocator) |  | <img alt="Stars" src="https://img.shields.io/github/stars/cybozu-go/nyallocator?style=flat-square&labelColor=343b41"/> |
 | [Nyamber](https://github.com/cybozu-go/nyamber) | Custom controllers to create Neco environment | <img alt="Stars" src="https://img.shields.io/github/stars/cybozu-go/nyamber?style=flat-square&labelColor=343b41"/> |
 | [Placemat](https://github.com/cybozu-go/placemat) | Virtual data center construction tool | <img alt="Stars" src="https://img.shields.io/github/stars/cybozu-go/placemat?style=flat-square&labelColor=343b41"/> |
 | [Pod Security Admission](https://github.com/cybozu-go/pod-security-admission) | A Kubernetes admission webhook to ensure pod security standards | <img alt="Stars" src="https://img.shields.io/github/stars/cybozu-go/pod-security-admission?style=flat-square&labelColor=343b41"/> |
@@ -141,6 +143,20 @@ Neco is an effort to re-architecture our data centers to make them resilient, ma
       </a>
       <br />
       <a href="https://github.com/chez-shanpu">chez-shanpu</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/tkna">
+        <img src="https://avatars.githubusercontent.com/tkna?s=88&v=4" width="100px;" alt="tkna"/>
+      </a>
+      <br />
+      <a href="https://github.com/tkna">tkna</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/hanapedia">
+        <img src="https://avatars.githubusercontent.com/hanapedia?s=88&v=4" width="100px;" alt="hanapedia"/>
+      </a>
+      <br />
+      <a href="https://github.com/hanapedia">hanapedia</a>
     </td>
   </tr>
 </table>
